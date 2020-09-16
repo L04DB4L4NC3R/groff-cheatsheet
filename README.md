@@ -77,7 +77,7 @@ The helpful groff cheatsheet along with examples.
 | Command | Functionality |
 |:-------:|:-------------:|
 | .NH xxx | Numbered heading where numbers specify levels of depth |
-| .SH | Section heading (un-numbered) |
+| .SH xxx | Section heading (un-numbered) |
 | .LH | Left heading |
 | .CH | Center heading |
 | .RH | Right heading |
