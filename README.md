@@ -73,5 +73,5 @@ The helpful groff cheatsheet, taken from various sources
 
 | Command | Functionality |
 |:-------:|:-------------:|
-| .de and ... | You can define macros between the block. See [this example](./double_column_research_paper.ms) |
+| .de and ... | You can define macros between the block. See [this example](./examples/double_column_research_paper.ms) |
 | .so filename | Source macros from filename |
