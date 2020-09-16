@@ -1,5 +1,5 @@
 ## Groff Cheatsheet
-The helpful groff cheatsheet along with examples. **contributions are welcome**.
+The helpful groff cheatsheet along with examples. Any **contributions are welcome**.
 
 ---
 
