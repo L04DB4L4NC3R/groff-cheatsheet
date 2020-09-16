@@ -68,3 +68,10 @@ The helpful groff cheatsheet, taken from various sources
 | .PS and .PE | |
 | .EQ [align] and .EN | |
 | .[ and .] | |
+
+### Defining macros
+
+| Command | Functionality |
+|:-------:|:-------------:|
+| .de and ... | |
+| .so filename | |
