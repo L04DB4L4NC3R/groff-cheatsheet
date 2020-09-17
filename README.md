@@ -117,5 +117,5 @@ The helpful groff cheatsheet along with examples.
 
 | Command | Functionality |
 |:-------:|:-------------:|
-| .PSPIC -[L|R|C|I n] [width[Height]] filename.eps | Insert a post script image into groff. |
-| .PDFPIC -[L|R|C|I n] [width[Height]] filename.eps | Insert a PDF image into groff. |
+| .PSPIC -[L/R/C/I n] [width[Height]] filename.eps | Insert a post script image into groff. |
+| .PDFPIC -[L/R/C/I n] [width[Height]] filename.eps | Insert a PDF image into groff. |
