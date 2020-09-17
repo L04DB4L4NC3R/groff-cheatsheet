@@ -32,6 +32,7 @@ The helpful groff cheatsheet along with examples.
 | .XS page_num and .XE | Table of contents block |
 | .XA page_num | Entry in the table of contents block |
 | .PX | Print a manually-generated table of contents without resetting the page number. |
+| .PSPIC -[L|R|C|I] filename.eps | Insert a post script image into groff. |
 
 <br>
 
@@ -78,9 +79,9 @@ The helpful groff cheatsheet along with examples.
 |:-------:|:-------------:|
 | .NH xxx | Numbered heading where numbers specify levels of depth |
 | .SH xxx | Section heading (un-numbered) |
-| .LH | Left heading |
-| .CH | Center heading |
-| .RH | Right heading |
+| .LH | Left header |
+| .CH | Center header |
+| .RH | Right header |
 | .LF | Left footer |
 | .CF | Center footer |
 | .RF | Right footer |
