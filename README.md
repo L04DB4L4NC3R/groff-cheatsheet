@@ -29,6 +29,7 @@ The helpful groff cheatsheet along with examples.
 ---
 
 ### General
+
 | Command | Functionality |
 |:-------:|:-------------:|
 | .RP [no] | Prints cover page on its own. Can be avoided with `.RP no` |
@@ -104,6 +105,7 @@ The helpful groff cheatsheet along with examples.
 ---
 
 ### Pre Processing
+
 | Command | Functionality |
 |:-------:|:-------------:|
 | .TS [H] and .TE | Denotes a table, to be processed by the tbl preprocessor. The optional H argument instructs groff to create a running header with the information up to the TH macro. |
