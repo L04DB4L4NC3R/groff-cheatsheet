@@ -32,7 +32,7 @@ The helpful groff cheatsheet along with examples.
 | .XS page_num and .XE | Table of contents block |
 | .XA page_num | Entry in the table of contents block |
 | .PX | Print a manually-generated table of contents without resetting the page number. |
-| .PSPIC -[L|R|C|I] filename.eps | Insert a post script image into groff. |
+| .PSPIC -[L|R|C|I n] [width[Height]] filename.eps | Insert a post script image into groff. |
 
 <br>
 
