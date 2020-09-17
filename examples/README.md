@@ -1,4 +1,6 @@
 ### How to generate PDFs for examples
 
-* `groff -ms single_column_writeup.ms -T pdf > o.pdf`
-* `groff -ms double_column_research_paper.ms -T pdf > o.pdf`
+* Running generic groff documents with the ms macro:
+```sh
+groff -ms filename.ms -T pdf > o.pdf
+```
