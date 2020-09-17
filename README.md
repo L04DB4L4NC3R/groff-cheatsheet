@@ -1,5 +1,5 @@
 ## Groff Cheatsheet
-The helpful groff cheatsheet along with examples.
+The helpful GNU troff cheatsheet along with examples.
 
 ---
 
