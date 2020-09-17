@@ -11,6 +11,7 @@ The helpful groff cheatsheet along with examples.
 * [Headings](#headings)
 * [Pre Processing](#pre-processing)
 * [Custom Macros](#custom-macros)
+* [Graphics](#graphics)
 
 <br>
 
@@ -32,7 +33,6 @@ The helpful groff cheatsheet along with examples.
 | .XS page_num and .XE | Table of contents block |
 | .XA page_num | Entry in the table of contents block |
 | .PX | Print a manually-generated table of contents without resetting the page number. |
-| .PSPIC -[L|R|C|I n] [width[Height]] filename.eps | Insert a post script image into groff. |
 
 <br>
 
@@ -110,3 +110,12 @@ The helpful groff cheatsheet along with examples.
 |:-------:|:-------------:|
 | .de and .. | You can define macros between the block. See [this example](./examples/double_column_research_paper.ms) |
 | .so filename | Source macros from filename |
+
+---
+
+### Graphics
+
+| Command | Functionality |
+|:-------:|:-------------:|
+| .PSPIC -[L|R|C|I n] [width[Height]] filename.eps | Insert a post script image into groff. |
+| .PDFPIC -[L|R|C|I n] [width[Height]] filename.eps | Insert a PDF image into groff. |
