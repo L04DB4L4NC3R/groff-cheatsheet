@@ -119,7 +119,7 @@ The helpful groff cheatsheet along with examples.
 
 | Command | Functionality |
 |:-------:|:-------------:|
-| .de and .. | You can define macros between the block. See [this example](./examples/double_column_research_paper.ms) |
+| .de and .. | You can define macros between this block. They can then be sourced by the same file as well as other files |
 | .so filename | Source macros from filename |
 
 ---
