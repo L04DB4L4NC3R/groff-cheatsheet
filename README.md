@@ -12,13 +12,13 @@ The helpful GNU troff cheatsheet along with examples.
 * [Pre Processing](#pre-processing)
 * [Custom Macros](#custom-macros)
 * [Graphics](#graphics)
-* [Examples](./examples)
+* Examples
 	* [Single Column Layout](./examples/single_column_writeup.ms)
 	* [Double Column Layout](./examples/double_column_research_paper.ms)
 	* [Headings](./examples/heading_headers_footers.ms)
 	* [Table of Contents](./examples/table_of_contents.ms)
 	* [Custom Macros](./examples/using_custom_macros.ms)
-	* [Preprocessors](./examples/preprocessing)
+	* Preprocessors
 		* [Tables](./examples/preprocessing/tables)
 		* [Inserting Photos](./examples/preprocessing/photos)
 		* [Citations](./examples/preprocessing/citation)
