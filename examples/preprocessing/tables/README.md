@@ -17,4 +17,4 @@ table
 .TE
 ```
 
-You can also use the `-t` flag in groff to use this preprocessor.
+You can also use the `-t` flag in groff to use this preprocessor. See [this file](./table.ms) for reference.

@@ -17,3 +17,7 @@ refer -p ./bibliography.ref -e cite.ms | groff -ms -Tpdf > o.pdf
 ```sh
 refer -p ./bibliography.ref -e -PS cite.ms | groff -ms -Tpdf > o.pdf
 ```
+
+* The bibliography should be defined in the format specified in the GNU refer man page. See [this file](./bibliography.ref) for reference
+
+* See [this file](./cite.ms) to see how I have used the citation feature

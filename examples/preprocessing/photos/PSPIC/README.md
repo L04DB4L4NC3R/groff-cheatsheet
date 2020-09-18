@@ -21,3 +21,5 @@ groff -ms photo.ms -Thtml > o.html
 ```
 
 * Note that PSPIC only supports `-Thtml -Txhtml -Tps -Tdvi` formats. For other formats, the image is replaced by an empty rectangle
+
+See [this file](./photo.ms) for reference

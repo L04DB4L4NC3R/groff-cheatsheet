@@ -19,3 +19,5 @@ convert p.png p.pdf
 ```sh
 groff -ms photo.ms -Tpdf > o.pdf
 ```
+
+See [this file](./photo.ms) for reference
