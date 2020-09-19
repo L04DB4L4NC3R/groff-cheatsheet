@@ -12,6 +12,7 @@ The helpful GNU troff cheatsheet along with examples.
 * [Pre Processing](#pre-processing)
 * [Custom Macros](#custom-macros)
 * [Graphics](#graphics)
+* [Configuring Paper Size](#configuring-paper-size)
 * Examples
 	* [Single Column Layout](./examples/single_column_writeup.ms)
 	* [Double Column Layout](./examples/double_column_research_paper.ms)
@@ -132,3 +133,15 @@ The helpful GNU troff cheatsheet along with examples.
 |:-------:|:-------------:|
 | .PSPIC -[L/R/C/I n] [width[Height]] filename.eps | Insert a post script image into groff. |
 | .PDFPIC -[L/R/C/I n] [width[Height]] filename.eps | Insert a PDF image into groff. |
+
+---
+
+### Configuring Paper Size
+
+You can configure your virtual paper size using groff postprocessor that is built in. `-P` is used to pass in arguments to the posst processor:
+
+```sh
+groff -Tpdf -P-pa4 -P-l -ms file.ms > file.pdf
+```
+
+The command above takes an A4 sized virtual paper in landscape mode. Other valid formats are A, B, D sized papers along with letters, statements, ledgers and tabloids. Full reference is available in the `DESC` section of the `groff_font` man page.
