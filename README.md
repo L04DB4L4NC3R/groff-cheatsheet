@@ -14,11 +14,11 @@ The helpful GNU troff cheatsheet along with examples.
 * [Graphics](#graphics)
 * [Configuring Paper Size](#configuring-paper-size)
 * Examples
-	* [Single Column Layout](./examples/single_column_writeup.ms)
-	* [Double Column Layout](./examples/double_column_research_paper.ms)
 	* [Headings](./examples/heading_headers_footers.ms)
 	* [Table of Contents](./examples/table_of_contents.ms)
 	* [Custom Macros](./examples/using_custom_macros.ms)
+	* [Single Column Writeup](./examples/single_column_writeup.ms)
+	* [Research Paper Samples](./examples/research_paper_samples)
 	* Preprocessors
 		* [Tables](./examples/preprocessing/tables)
 		* [Inserting Photos](./examples/preprocessing/photos)

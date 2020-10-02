@@ -1,0 +1,107 @@
+%k gabor-filters
+%A W Duch, Kacprzyk J., Oja E., Zadrożny S. (eds) 
+%B Kwolek B. (2005) Face Detection Using Convolutional Neural Networks and Gabor Filters. 
+%C Springer, Berlin, Heidelberg
+%D 2005
+%J Artificial Neural Networks: Biological Inspirations – ICANN 2005. ICANN 2005. 
+%S Lecture Notes in Computer Science
+%V 3696
+%X https://doi.org/10.1007/11550822_86
+
+%K Gabor-filters-2
+%A Haiyuan Wu, Y Yoshida and T Shioyama
+%B Optimal Gabor filters for high speed face identification
+%C Quebec City, Quebec, Canada
+%D 2002
+%J ICPR
+%P 107-110
+%T Object recognition supported by user interaction for service robots,
+%V 1
+
+%K eigenfaces
+%A Pentland Vision and Modeling Group Matthew A. Turk and P. Alex
+%B Face Recognition Using Eigenfaces
+%C Massachustts
+%J The Media Laboratory Massachusetts Institute of Technology 
+%D November 5, 2000
+%X https://www.cin.ufpe.br/~rps/Artigos/Face%20Recognition%20Using%20Eigenfaces.pdf
+
+
+%K Feret
+%A P. J. Phillips, Hyeonjoon Moon, S. A. Rizvi and P. J. Rauss
+%B The FERET evaluation methodology for face-recognition algorithms
+%D Oct 2000
+%I IEEE
+%J IEEE Transactions on Pattern Analysis and Machine Intelligence
+%N 10
+%P 1090-1104
+%V 22
+
+
+%K laplace
+%A Xiaofei He, Shuicheng Yan, Yuxiao Hu, P. Niyogi and Hong-Jiang Zhang
+%B Face recognition using Laplacianfaces
+%D March 2005
+%E My editor name
+%I IEEE
+%J IEEE Transactions on Pattern Analysis and Machine Intelligence
+%N 3
+%P 328-340
+%V 27
+
+%K cancelable
+%A M. Savvides, B. V. K. Vijaya Kumar and P. K. Khosla
+%B Cancelable biometric filters for face recognition
+%D 2004
+%I ICPR
+%P 922-925
+%S Proceedings of the 17th International Conference on Pattern Recognition
+
+%K edge
+%A X. Wang, Y Han, V. C. M. Leung, D. Niyato, X. Yan and X. Chen
+%B Convergence of Edge Computing and Deep Learning: A Comprehensive Survey
+%D Second Quarter 2020
+%I IEEE
+%J IEEE Communications Surveys & Tutorials
+%N 2
+%P 869-904
+%V 222
+
+
+%K deepface
+%A Y Wen, Zhang K., Li Z., Qiao Y. (2016) 
+%B A Discriminative Feature Learning Approach for Deep Face Recognition. 
+%C Springer, Cham
+%D 2016
+%E Leibe B., Matas J., Sebe N., Welling M. (eds) Computer Vision – ECCV 20
+%J ECCV
+%S Lecture Notes in Computer Science,
+%V 9911
+%X https://doi.org/10.1007/978-3-319-46478-7_3 
+
+
+%K baback
+%A Baback Moghaddam,Tony Jebarab,Alex Pentlandb Mitsubishi Electric Research Laboratory
+%B Bayesian face recognition
+%C Cambridge, Massachusetts
+%I USAA Massachusetts Institute of Technology
+%X https://www.sciencedirect.com/science/article/abs/pii/S003132039900179X
+
+
+%K facenet
+%A Florian Schroff, Dmitry Kalenichenko, James Philbin
+%B A Unified Embedding for Face Recognition and Clustering 
+%D 2015
+%I IEEE
+%J  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+%P 815-823
+%X https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html
+
+
+%K face-recog
+%A Adam Geitgey
+%B face_recognition
+%J GitHub
+%T https://github.com/ageitgey/face_recognition
+%X https://github.com/ageitgey/face_recognition
+
